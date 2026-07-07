@@ -1,0 +1,13 @@
+.fade-up{
+
+    opacity:0;
+
+    transform:translateY(40px);
+
+}
+
+.fade-in{
+
+    opacity:0;
+
+}

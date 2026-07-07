@@ -1,0 +1,19 @@
+@media(max-width:992px){
+
+    :root{
+
+        --section-padding:80px;
+
+    }
+
+}
+
+@media(max-width:768px){
+
+    :root{
+
+        --section-padding:60px;
+
+    }
+
+}
